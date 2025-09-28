@@ -8,6 +8,10 @@
 - `src/index.css`: arquivo CSS principal
 
 ## Rodar o projeto
+
+Pre-requisitos:
+- [Node.js](https://nodejs.org/) instalado (versão 22 ou superior)
+
 1. Instale as dependências:
    ```bash
    npm install
